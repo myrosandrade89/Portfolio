@@ -1,0 +1,12 @@
+{
+  "dashboard": {
+    "more": "...ver más",
+    "appointment": "Agendar Asesoría",
+    "recent": "Asesorías recientes",
+    "mainCardAppointment": "No hay asesorías próximas",
+    "nextAppointment": "Tu próxima asesoría",
+    "hello": "Hola,",
+    "poll": "¡Encuestas!",
+    "request": "Tienes una nueva solicitud"
+  }
+}

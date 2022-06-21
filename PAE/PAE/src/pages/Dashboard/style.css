@@ -1,0 +1,8 @@
+.MainCard {
+  background: rgb(109, 123, 237);
+  background: linear-gradient(
+    90deg,
+    rgba(109, 123, 237, 1) 0%,
+    rgba(173, 100, 219, 1) 58%
+  );
+}
