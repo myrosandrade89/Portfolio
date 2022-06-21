@@ -1,0 +1,4 @@
+# PAE
+The Student Advisor Program's mission is to provide complementary training to Tecnológico de Monterrey students in those subjects and skills in which they have presented difficulties to master. As a support tool to fulfill this mission, the project to be developed seeks to be the definitive system that coordinates and centralizes the appointment scheduling process, that acts as the interface that communicates students with advisors and that allows program administrators to follow up continuous to this, guaranteeing that the consultancies given allow developing the skills of the leaders trained at the Tecnológico de Monterrey.
+![image](https://user-images.githubusercontent.com/67491368/174845718-a0a3909f-0fa2-4288-b0fb-b9fb0150a732.png)
+![image](https://user-images.githubusercontent.com/67491368/174845938-6ee24597-866e-4959-aa7f-eecf6cc6d43b.png)
